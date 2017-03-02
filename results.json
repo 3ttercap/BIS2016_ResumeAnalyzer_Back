@@ -1,0 +1,47 @@
+"personality_profile" : {
+        "needs" : [
+            {
+                "category" : "needs",
+                "percentile" : 0.42147159765048825,
+                "trait_id" : "need_challenge",
+                "name" : "Challenge"
+            },
+            [...]
+        ],
+        "warnings" : [
+            {
+                "message" : "There were 320 words in the input. We need a minimum of 600, preferably 1,200 or more, to compute statistically significant estimates",
+                "warning_id" : "WORD_COUNT_MESSAGE"
+            }
+        ],
+        "word_count" : 320,
+        "processed_language" : "en",
+        "word_count_message" : "There were 320 words in the input. We need a minimum of 600, preferably 1,200 or more, to compute statistically significant estimates",
+        "values" : [
+            {
+                "category" : "values",
+                "percentile" : 0.09455697823781206,
+                "trait_id" : "value_conservation",
+                "name" : "Conservation"
+            },
+            [...]
+        ],
+        "personality" : [
+            {
+                "category" : "personality",
+                "percentile" : 0.4600403522657486,
+                "trait_id" : "big5_openness",
+                "name" : "Openness",
+                "children" : [
+                    {
+                        "category" : "personality",
+                        "percentile" : 0.9954132781986895,
+                        "trait_id" : "facet_adventurousness",
+                        "name" : "Adventurousness"
+                        [...]
+                    },
+                ]
+            },
+            [...]
+        ]
+    }

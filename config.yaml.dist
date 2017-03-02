@@ -1,0 +1,14 @@
+mongo:
+  conn:
+    host: localhost
+    port: 27017
+  database: resume_analyzer
+resume_directories: [
+  '/path/to/resume_dir_0',
+  '/path/to/resume_dir_1',
+  '/path/to/resume_dir_2'
+]
+watson_personal_insight:
+  password: "your_pass_word"
+  username: "your_user_name"
+  x_watson_learning_opt_out: True

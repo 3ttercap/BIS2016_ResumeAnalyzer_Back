@@ -1,0 +1,10 @@
+langdetect==1.0.7
+lxml==3.7.2
+pdfminer==20140328
+pymongo==3.4.0
+pysolr==3.6.0
+python-docx==0.8.6
+PyYAML==3.12
+requests==2.12.4
+six==1.10.0
+watson-developer-cloud==0.23.0
